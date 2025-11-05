@@ -28,47 +28,40 @@ GitHub – Version control and project showcase
 ⚙️ Project Steps
 1. Data Understanding & Preparation
 
-Loaded dataset into Python and handled missing values
+->> Loaded dataset into Python and handled missing values
 
-Standardized column names to snake_case
+->> Standardized column names to snake_case
 
-Engineered new features such as age_group and purchase_frequency_days
+->> Engineered new features such as age_group and purchase_frequency_days
 
 2. Data Storage & SQL Analysis
 
-Imported cleaned data into PostgreSQL using SQLAlchemy
+->> Imported cleaned data into PostgreSQL using SQLAlchemy
 
-Executed analytical SQL queries using CTEs, CASE statements, and window functions to answer business questions like:
+->> Executed analytical SQL queries using CTEs, CASE statements, and window functions to answer business questions like:
 
-Top 3 products by category
+->> Top 3 products by category
 
-Revenue by gender and age group
-
-Customer loyalty segmentation
+  ->> Revenue by gender and age group
+  
+  ->> Customer loyalty segmentation
 
 3. Dashboard & Visualization
 
-Built a Power BI dashboard connected to PostgreSQL
+->> Built a Power BI dashboard connected to PostgreSQL
 
-Visualized KPIs including:
+->> Visualized KPIs including:
 
-Total Revenue
+  ->> Total Revenue
+  
+  ->> Average Review Rating
+  
+  ->> Revenue by Category
+  
+  ->> Sales by Age Group
+  
+  ->> Discount Rate by Product
 
-Average Review Rating
-
-Revenue by Category
-
-Sales by Age Group
-
-Discount Rate by Product
-
-📈 Dashboard Preview
-
-Page 1: Customer Overview
-
-Page 2: Product Performance
-
-Page 3: Sales & Loyalty Insights
 
 🚀 Results & Insights
 
