@@ -62,6 +62,12 @@ GitHub – Version control and project showcase
   
   ->> Discount Rate by Product
 
+## 📈 Dashboard Preview  
+
+**Customer Overview Page**  
+![Customer Overview](images/dashboard_overview.png)  
+
+
 
 🚀 Results & Insights
 
